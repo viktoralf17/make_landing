@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0; }
+
+button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px; }
+
+body {
+  background-image: url("https://s3.amazonaws.com/makeitreal/cars/jaguar-xe.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center bottom;
+  background-size: cover; }
+
+.container {
+  margin-top: 40px;
+  position: absolute;
+  width: 600px;
+  background: rgba(0, 0, 0, 0.7);
+  padding: 50px;
+  color: white;
+  box-sizing: border-box; }
+  .container button {
+    background: #DB3030; }
+
+/*# sourceMappingURL=app.css.map */
